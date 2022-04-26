@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Tech Panda">
+  <test name="Run on firefox browser">
+    <classes>
+      <class name="com.techpanda.account.Account_01_Register"/>
+    </classes>
+  </test> 
+</suite> 
